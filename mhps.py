@@ -3,12 +3,7 @@
 # Is the Monty Hall Problem solution correct?
 # author: Fabio Colella <fcole90@gmail.com>
 # version: 1.1.0
-###############CHANGELOG#####################
-# |19-04-2013 14:38| added input to choice a number of loops 1.0.1
-# |19-04-2013 15:02| added info on Monty Hall problem and statistics 1.0.2
-# |19-04-2013 16:02| bugfix to prevent runtime error n/0 at line 138 (or below) 1.1.0
-#############################################
-# Licensed under LGPL
+# Licensed under LGPL v3 and later
 
 
 from random import randint
