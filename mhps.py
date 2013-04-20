@@ -161,8 +161,10 @@ print '|------------------------------------------|'
 print '| Win and Changed ----------> (' + str(percWWC) + '%)'
 print '| Win without changes-------> (' + str(percWWNC) + '%)'
 print '--------------------------------------------'
-print 'You can find more info about googling'
+print 'You can find more info about googling:'
 print 'Monty Hall problem'
+
+EXIT=raw_input("Now press ENTER to exit.")
 
 
 
